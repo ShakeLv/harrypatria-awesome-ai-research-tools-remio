@@ -63,6 +63,7 @@ Tools for summarizing, querying, and interacting with PDFs and documents. Often 
 | Explainpaper| Upload a paper, highlight confusing text, and receive an explanation.   | [explainpaper.com](https://www.explainpaper.com/) | Free; simple interface. |
 | Any Summary | Summarize various file types, including audio, video, or URLs, into bullet points, quotes, or abstracts. | [anysummary.app](https://www.anysummary.app/) | Freemium; multi-format. |
 | NotebookLM  | Google AI for chatting with PDFs, generating overviews, mind maps.      | [notebooklm.google.com](https://notebooklm.google.com/) | Free; podcast feature. |
+| Remio       | Local-first AI memory and knowledge base app for parsing and indexing research files, webpages, recordings, emails, messages, images, and notes. | [remio.ai](https://remio.ai/) | Desktop app; local indexes and vector retrieval for personal research context. |
 | Anara AI     | Processes text for summaries, notes, and combined answers from papers.  | [anara.com](https://anara.com/) | Freemium; reference highlighting. |
 | Scholarcy    | Summarizes PDFs with key details, extracts figures and references.      | [scholarcy.com](https://scholarcy.com/) | Freemium; flashcard export. |
 | MinerU       | Multimodal PDF parsing to Markdown/JSON, high accuracy.                 | [github.com/opendatalab/MinerU](https://github.com/opendatalab/MinerU) | Open-source; 1.2B params. |
